@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Atualmente estou buscando estágio na área de TI, Suporte Técnico, Design UI/UX e Desenvolvimento<br>🤝 Trabalho de forma colaborativa e dinâmica<br>🌱 Atualmente estou estudando a stack Front-End(HTML,CSS,JavaScript e React) Python(aprendendo)<br>⚡ Tenho 5 gatos,amo romance, como noites brancas de Dostoiévski e os jogos da Nitrome(Bad Ice Cream e Twin Shot 1 e 2)
+🔭 Sou estudante de Engenharia da Computação na UNIVESP.
+Atualmente estou buscando estágio na área de TI, Suporte Técnico, Design UI/UX e Desenvolvimento<br>🤝 Trabalho de forma colaborativa e dinâmica<br>🌱 Atualmente estou estudando a stack Front-End(HTML,CSS,JavaScript e React) Python(aprendendo)<br>⚡ Tenho 5 gatos,amo romance, como noites brancas de Dostoiévski e os jogos da Nitrome(Bad Ice Cream e Twin Shot 1 e 2)
 
 
 ## 🌐 Socials:
